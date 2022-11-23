@@ -1,0 +1,15 @@
+C:\Users\SAMSUNG\Desktop\Folder\UnitTestAssignment\PayRollAssignment\bin\Debug\net6.0\PayRollAssignment.exe
+C:\Users\SAMSUNG\Desktop\Folder\UnitTestAssignment\PayRollAssignment\bin\Debug\net6.0\PayRollAssignment.deps.json
+C:\Users\SAMSUNG\Desktop\Folder\UnitTestAssignment\PayRollAssignment\bin\Debug\net6.0\PayRollAssignment.runtimeconfig.json
+C:\Users\SAMSUNG\Desktop\Folder\UnitTestAssignment\PayRollAssignment\bin\Debug\net6.0\PayRollAssignment.dll
+C:\Users\SAMSUNG\Desktop\Folder\UnitTestAssignment\PayRollAssignment\bin\Debug\net6.0\PayRollAssignment.pdb
+C:\Users\SAMSUNG\Desktop\Folder\UnitTestAssignment\PayRollAssignment\obj\Debug\net6.0\PayRollAssignment.csproj.AssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\Folder\UnitTestAssignment\PayRollAssignment\obj\Debug\net6.0\PayRollAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\Desktop\Folder\UnitTestAssignment\PayRollAssignment\obj\Debug\net6.0\PayRollAssignment.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\Desktop\Folder\UnitTestAssignment\PayRollAssignment\obj\Debug\net6.0\PayRollAssignment.AssemblyInfo.cs
+C:\Users\SAMSUNG\Desktop\Folder\UnitTestAssignment\PayRollAssignment\obj\Debug\net6.0\PayRollAssignment.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\Folder\UnitTestAssignment\PayRollAssignment\obj\Debug\net6.0\PayRollAssignment.dll
+C:\Users\SAMSUNG\Desktop\Folder\UnitTestAssignment\PayRollAssignment\obj\Debug\net6.0\refint\PayRollAssignment.dll
+C:\Users\SAMSUNG\Desktop\Folder\UnitTestAssignment\PayRollAssignment\obj\Debug\net6.0\PayRollAssignment.pdb
+C:\Users\SAMSUNG\Desktop\Folder\UnitTestAssignment\PayRollAssignment\obj\Debug\net6.0\PayRollAssignment.genruntimeconfig.cache
+C:\Users\SAMSUNG\Desktop\Folder\UnitTestAssignment\PayRollAssignment\obj\Debug\net6.0\ref\PayRollAssignment.dll
